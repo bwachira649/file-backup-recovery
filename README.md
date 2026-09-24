@@ -51,25 +51,6 @@ The screenshot below demonstrates the File Backup & Recovery System operating th
 
 ![File Backup & Recovery System](docs/images/file-backup-recovery.png)
 
-> **Note:** Add the project screenshot at `docs/images/file-backup-recovery.png`.
-
-## Video / GUI Demonstration
-
-This project is primarily a command-line application rather than a graphical application.
-
-A demonstration video can show the complete backup workflow, including:
-
-* Creating a backup
-* Listing available backups
-* Verifying backup integrity
-* Restoring files
-* Comparing restored files with the originals
-* Safely deleting a backup
-* Reviewing application logs
-* Demonstrating error handling
-
-**Demo Video:** Add a GitHub-hosted, YouTube, or other portfolio demonstration link here.
-
 ## Project Structure
 
 ```text
